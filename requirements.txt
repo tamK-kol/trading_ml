@@ -93,7 +93,7 @@ jupyterlab_pygments==0.3.0
 jupyterlab_server==2.25.2
 kiwisolver==1.4.5
 korean-lunar-calendar==0.3.1
-lumibot==3.0.6
+lumibot==3.7.3
 lumiwealth-tradier==0.1.5
 lxml==5.1.0
 MarkupSafe==2.1.3
